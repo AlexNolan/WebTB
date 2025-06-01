@@ -8,7 +8,7 @@ Generic Website sample with adblocker for tizenbrew
 
 ## Features
 
-* Adblocker Powered by Ublock
+* Adblocker Powered by uBlock Origin
 
 ## To Do
 
