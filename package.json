@@ -1,13 +1,12 @@
 {
-  "name": "@owen-the-kid/twitchtb",
-  "appName": "TwitchTB",
-  "version": "1.1.4",
+  "name": "@AlexNolan/WebTB",
+  "appName": "WebTB",
+  "version": "0.0.1",
   "description": "Generic Website Injector app with adblocker",
   "packageType": "mods",
-  // "websiteURL": "https://hisense.tv.twitch.tv",
   "websiteURL": "https://app.plex.tv",
   "main": "scripts/userScript.js",
-  "author": "Owen The Kid",
+  "author": "Owen The Kid / Alex Nolan",
   "keys": [
     "MediaPlayPause",
     "MediaPlay",
@@ -19,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/owen-the-kid/TwitchTB"
+    "url": "https://github.com/AlexNolan/WebTB"
   },
   "license": "GPL-3.0-only"
 }
