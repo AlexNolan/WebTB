@@ -21,4 +21,4 @@ Forked from [TwitchTB](https://github.com/owen-the-kid/TwitchTB), so open a issu
 
 ## License
 
-This project is licensed under the [GPL-3.0-only License](https://github.com/owen-the-kid/TwitchTB/blob/master/LICENSE).
+This project is licensed under the [GPL-3.0-only License](https://github.com/alexnolan/webtb/blob/master/LICENSE).
