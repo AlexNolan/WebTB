@@ -17,7 +17,7 @@ Generic Website sample with adblocker for tizenbrew
 
 ## Something to report
 
-Forked from (https://github.com/owen-the-kid/TwitchTB)[TwitchTB], so open a issue on the GitHub or send a message in the Tizenbrew Server or DM on discord at theupsidedownshaggy 
+Forked from [TwitchTB](https://github.com/owen-the-kid/TwitchTB), so open a issue on the GitHub or send a message in the Tizenbrew Server or DM on discord at theupsidedownshaggy 
 
 ## License
 
