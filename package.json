@@ -2,7 +2,7 @@
   "name": "@alexnolan/webtb",
   "appName": "WebTB",
   "version": "0.0.1",
-  "description": "Generic Website Injector app with adblocker",
+  "description": "Generic template fo injecting JavaScript into websites",
   "packageType": "mods",
   "websiteURL": "http://192.168.68.116:13378/audiobookshelf",
   "main": "scripts/userScript.js",
