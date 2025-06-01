@@ -1,5 +1,5 @@
-# TwitchTB
-Twitch with adblocker for tizenbrew
+# WebTB
+Generic Website sample with adblocker for tizenbrew
 
 [![GitHub issues](https://img.shields.io/github/issues/owen-the-kid/TwitchTB.svg)](https://github.com/owen-the-kid/TwitchTB/issues)
 [![GitHub last commit](https://img.shields.io/github/last-commit/owen-the-kid/TwitchTB.svg)](https://github.com/owen-the-kid/TwitchTB/commits)
@@ -9,16 +9,15 @@ Twitch with adblocker for tizenbrew
 ## Features
 
 * Adblocker Powered by Ublock
-* Thats all...
 
 ## To Do
 
-* Add BetterTTV and others for 3rd party emotes
-* fix accepting cookie at every launch
+* Add various useful script libraries
+* Add a bunch of parameters which set things
 
 ## Something to report
 
-open a issue on the GitHub or send me a message in the Tizenbrew Server or DM me on discord at theupsidedownshaggy 
+Forked from TwitchTB, so open a issue on the GitHub or send a message in the Tizenbrew Server or DM on discord at theupsidedownshaggy 
 
 ## License
 
