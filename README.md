@@ -1,10 +1,10 @@
 # WebTB
 Generic Website sample with adblocker for tizenbrew
 
-[![GitHub issues](https://img.shields.io/github/issues/AlexNolan/WebTB.svg)](https://github.com/AlexNolan/WebTB/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/AlexNolan/WebTB.svg)](https://github.com/AlexNolan/WebTB/commits)
-[![GitHub stars](https://img.shields.io/github/stars/AlexNolan/WebTB.svg)](https://github.com/AlexNolan/WebTB)
-[![GitHub license](https://img.shields.io/github/license/AlexNolan/WebTB.svg)](https://github.com/AlexNolan/WebTB/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/commits)
+[![GitHub stars](https://img.shields.io/github/stars/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb)
+[![GitHub license](https://img.shields.io/github/license/alexnolan/webtb.svg)](https://github.com/alexnolan/webtb/blob/master/LICENSE)
 
 ## Features
 
